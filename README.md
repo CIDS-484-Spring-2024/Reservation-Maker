@@ -64,3 +64,6 @@ Create a new branch: git checkout -b feature/your-feature.
 Commit your changes: git commit -m 'Add some feature'.
 Push to the branch: git push origin feature/your-feature.
 Submit a pull request.
+
+**Progress**
+Both contributors (Aaliyah Kurrelmeyer and Evan Christianson) have spent our time famiarizing ourselves with the technologies listed above, and we will begin working on the landing page and login system this week. It has been a while since we've used these, and we've never made a project implementing all of them together so it seemed wise to make sure we understood the tech pretty well before making commits to the final project.
