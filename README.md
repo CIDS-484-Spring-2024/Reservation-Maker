@@ -2,52 +2,49 @@
 
 The Restaurant Reservation System is a web application designed to simplify the reservation process for users and enhance reservation management for restaurant staff. This system is built using Node.js for the backend, React for the frontend, and follows a microservices architecture with Docker for scalability and maintainability.
 
-Features
+**Features**
 
-User Authentication:
+**User Authentication:**
 Create accounts or log in using existing credentials.
 Two user roles: customers and restaurant staff.
 
-Reservation Management:
+**Reservation Management:**
 Make, view, and cancel reservations.
 Real-time availability updates.
 
-User Profiles:
+**User Profiles:**
 Update user profiles and preferences.
 Dashboard for Restaurant Staff:
 Comprehensive view of reservations.
 Manage reservation statuses and update availability.
 
-Notifications:
+**Notifications:**
 Automated email or SMS notifications for users.
 Reminders for upcoming reservations.
 Technology Stack
 
-Frontend:
+**Frontend:**
 React.js
 Backend:
 Node.js
 
-APIs:
+**APIs:**
 RESTful APIs
 
-Database:
+**Database:**
 MongoDB
 
-Authentication:
+**Authentication:**
 JSON Web Tokens (JWT)
 
-Microservices:
+**Microservices:**
 Docker
 
-Getting Started
-
-Prerequisites
+**Prerequisites**
 Node.js installed
 MongoDB installed and configured
 
-Installation
-
+**Installation**
 Clone the repository:
 git clone https://github.com/CIDS-484-Spring-2024/Reservation-Maker/tree/main
 
@@ -58,10 +55,10 @@ npm install
 Run the application:
 npm start
 
-Development:
+**Development:**
 Follow the "Development Phases" outlined in the Project Overview pdf.
 
-Contribution:
+**Contribution:**
 Fork the repository.
 Create a new branch: git checkout -b feature/your-feature.
 Commit your changes: git commit -m 'Add some feature'.
