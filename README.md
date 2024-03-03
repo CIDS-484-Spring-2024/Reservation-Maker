@@ -68,5 +68,8 @@ Submit a pull request.
 **Progress**
 Both contributors (Aaliyah Kurrelmeyer and Evan Christianson) have spent our time famiarizing ourselves with the technologies listed above, and we will begin working on the landing page and login system this week. It has been a while since we've used these, and we've never made a project implementing all of them together so it seemed wise to make sure we understood the tech pretty well before making commits to the final project.
 
+Milestone 2 Updates:
+Most of the basic web design is finished, but we still need to implement the user/login system and make the calendar interactive/build the reservation system
+
 **Video**
 https://www.loom.com/share/2457ee553e674f90b545a282bc232031?sid=20d266af-2934-40e1-94c8-b1e269c057fc 
