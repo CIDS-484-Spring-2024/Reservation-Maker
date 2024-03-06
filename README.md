@@ -73,3 +73,7 @@ Most of the basic web design is finished, but we still need to implement the use
 
 **Video**
 https://www.loom.com/share/2457ee553e674f90b545a282bc232031?sid=20d266af-2934-40e1-94c8-b1e269c057fc 
+
+**Milestone 2 Update Video**
+https://www.loom.com/share/62afa6f1c27b457a8cdc17323cec07c8?sid=71b39284-6a74-4cba-ac8d-513d7728a76c 
+
