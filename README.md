@@ -1,5 +1,8 @@
 # Reservation-Maker
 
+MILESTONE 3 NOTE:
+Updated Code for Milestone 3 is in the branch "evan-milestone-3" - I got a better understanding of React JS and rewrote much of the main branch code, so I'm having trouble pushing the new code to the main branch. I'll get this figured out ASAP.
+
 The Restaurant Reservation System is an application designed to simplify the reservation process for users and enhance reservation management for restaurant staff. This system is built using Node.js for the backend, React for the frontend, and follows a microservices architecture with Docker for scalability and maintainability.
 
 **Features**
